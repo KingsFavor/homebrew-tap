@@ -1,6 +1,6 @@
 cask "taskocean" do
-  version "0.1.1"
-  sha256 "cfe4cdcac7921a04897216fe61b5954515fd5a7f91e5e8b0442294b2474e0f61"
+  version "0.1.2"
+  sha256 "de57b657664ad7b0e9fcd5afbd82c0c9edd1e6496ebf4347a9f18ba821f1af49"
 
   url "https://github.com/KingsFavor/Taskocean/releases/download/v#{version}/TaskOcean-#{version}.dmg",
       verified: "github.com/KingsFavor/Taskocean/"

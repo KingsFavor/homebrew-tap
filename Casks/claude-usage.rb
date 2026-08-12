@@ -11,5 +11,6 @@ cask "claude-usage" do
 
   zap trash: [
     "~/Library/Preferences/com.kwonwoo.claude-usage-monitor.plist",
+    "~/Library/Application Support/ClaudeUsageMonitor",
   ]
 end

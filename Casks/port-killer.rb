@@ -1,6 +1,6 @@
 cask "port-killer" do
-  version "1.1.0"
-  sha256 "d12adfa338076d54c1bf1c35a56f6a5aa603341501cb6c099808513c1e2e1007"
+  version "1.2.0"
+  sha256 "0b2345d9e3999e6634cb1c8b6855830d6741175096e85ce914b1ab7431c8e6ac"
 
   url "https://github.com/KingsFavor/Mac-port-viewer/releases/download/v#{version}/PortKiller-#{version}.dmg"
   name "Port Killer"

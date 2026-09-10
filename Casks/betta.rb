@@ -1,6 +1,6 @@
 cask "betta" do
-  version "0.1.0"
-  sha256 "05e21a5f6744091574467c58f8ee8f0235dd583557ae1ba263cbdbad50aa4afb"
+  version "0.2.0"
+  sha256 "4fe7ab2c5607b0de1f653f27d9bdbbd25fb76c796598718079b3cebc8a34d9ac"
 
   url "https://github.com/KingsFavor/Betta-Reminder/releases/download/v#{version}/Betta-#{version}.dmg"
   name "Betta"

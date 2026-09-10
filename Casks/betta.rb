@@ -2,8 +2,7 @@ cask "betta" do
   version "0.1.0"
   sha256 "05e21a5f6744091574467c58f8ee8f0235dd583557ae1ba263cbdbad50aa4afb"
 
-  url "https://github.com/KingsFavor/Betta-Reminder/releases/download/v#{version}/Betta-#{version}.dmg",
-      verified: "github.com/KingsFavor/Betta-Reminder/"
+  url "https://github.com/KingsFavor/Betta-Reminder/releases/download/v#{version}/Betta-#{version}.dmg"
   name "Betta"
   desc "Minimal always-on-top interval reminders for macOS"
   homepage "https://github.com/KingsFavor/Betta-Reminder"

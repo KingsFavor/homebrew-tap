@@ -1,6 +1,6 @@
 cask "envman" do
-  version "0.1.8"
-  sha256 "ce33f4d3a37ca89460b7c45b75770c250d3d48a967e87fcaba01dbb4b2f6792b"
+  version "0.1.9"
+  sha256 "b6f35ed9dc6858fcafb83fa22384d58c1c713667492707af55448f23b2702f34"
 
   url "https://github.com/KingsFavor/EnvMan/releases/download/v#{version}/EnvMan-#{version}.dmg"
   name "EnvMan"

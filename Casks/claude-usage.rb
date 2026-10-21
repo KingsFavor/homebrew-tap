@@ -1,6 +1,6 @@
 cask "claude-usage" do
-  version "1.1.7"
-  sha256 "af0c91ce71829d6c67e107ddefcdab8d6e9e78bc09520425ff245fb2d3159580"
+  version "1.1.8"
+  sha256 "3531cca99302c32a2a89e7e99957448190e04e7e5243804eab95d015a27e0ef5"
 
   url "https://github.com/KingsFavor/Claude-usage-MAC/releases/download/v#{version}/Claude-Usage-#{version}.dmg"
   name "Claude Usage"
